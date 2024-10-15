@@ -5,9 +5,9 @@ load_dotenv()
 
 API_ID = os.getenv("API_ID", "12227067").strip()
 API_HASH = os.getenv("API_HASH", "b463bedd791aa733ae2297e6520302fe").strip()
-BOT_TOKEN = os.getenv("BOT_TOKEN", "").strip()
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8027619667:AAHxvuVMZGZetySasMmIoBAOc_JtScr4Vyc").strip()
 DATABASE_URL = os.getenv("DATABASE_URL", "postgres://citus:AbhiModszYT12@c-yone.2iti2yet5lss6l.postgres.cosmos.azure.com:5432/yone").strip()
-MUST_JOIN = os.getenv("MUST_JOIN", "AMBOTYT")
+MUST_JOIN = os.getenv("MUST_JOIN", "")
 
 if not API_ID:
     print("No API_ID found. Exiting...")
