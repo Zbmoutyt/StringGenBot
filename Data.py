@@ -19,18 +19,15 @@ class Data:
             InlineKeyboardButton("🤔 ʜᴏᴡ ᴛᴏ ᴜsᴇ 🤔", callback_data="help"),
             InlineKeyboardButton("🎪 ᴀʙᴏᴜᴛ 🎪", callback_data="about"),
         ],
-        [InlineKeyboardButton("💌 ᴏᴛʜᴇʀ ʙᴏᴛs 💌", url="https://t.me/AMBOTYT")],
+        [InlineKeyboardButton("💌 ᴏᴛʜᴇʀ ʙᴏᴛs 💌", url="https://t.me/RDXWEAPON")],
     ]
 
     START = """
 ʜᴇʏ {}
 ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ {}
 ɪꜰ ʏᴏᴜ ᴅᴏɴ'ᴛ ᴛʀᴜsᴛ ᴛʜɪs ʙᴏᴛ, 
-1) sᴛᴏᴘ ʀᴇᴀᴅɪɴɢ ᴛʜɪs ᴍᴇssᴀɢᴇ
-2) ᴅᴇʟᴇᴛᴇ ᴛʜɪs ᴄʜᴀᴛ
-sᴛɪʟʟ ʀᴇᴀᴅɪɴɢ?
 ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴍᴇ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴛᴇʟᴇᴛʜᴏɴ sᴛʀɪɴɢ sᴇssɪᴏɴ. ᴜsᴇ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴs ᴛᴏ ʟᴇᴀʀɴ ᴍᴏʀᴇ !
-ʙʏ @AMBOTYT ᴀɴᴅ @AM_YTSUPPORT
+ʙʏ @RDXWEAPON ᴀɴᴅ @RDXWEAPON
     """
 
     HELP = """
@@ -49,12 +46,12 @@ sᴛɪʟʟ ʀᴇᴀᴅɪɴɢ?
     ABOUT = """
 **ᴀʙᴏᴜᴛ ᴛʜɪs ʙᴏᴛ** 
 
-ᴀ ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴛᴇʟᴇᴛʜᴏɴ sᴛʀɪɴɢ sᴇssɪᴏɴ ʙʏ @AMBOTYT
+ᴀ ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴛᴇʟᴇᴛʜᴏɴ sᴛʀɪɴɢ sᴇssɪᴏɴ ʙʏ @RDXWEAPON
 
 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/AbhiModszYT/StringGenBot)
 ғʀᴀᴍᴇᴡᴏʀᴋ : [ᴘʏʀᴏɢʀᴀᴍ](docs.pyrogram.org)
 ʟᴀɴɢᴜᴀɢᴇ : [ᴘʏᴛʜᴏɴ](www.python.org)
-ᴏᴡɴᴇʀ : @AM_YTBOTT
+ᴏᴡɴᴇʀ : @RDXWEAPON
     """
 
     # Repo Message
@@ -65,11 +62,11 @@ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/Abh
 ━━━━━━━━━━━━━━━━━
 ɢᴇɴᴇʀᴀᴛᴇ sᴛʀɪɴɢ sᴇssɪᴏɴ ғᴏʀ ᴛɢ...
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ ᴄʀᴇᴀᴛᴇʀ [ᴀᴍʙᴏᴛ](https://t.me/AM_YTBOTT)
-┣★ ʜᴇᴀʀᴛ ᴜs  [ʜᴇᴀʀᴛ ❤️](https://t.me/ABOUT_AMBOT)
+┣★ ᴄʀᴇᴀᴛᴇʀ [ᴀᴍʙᴏᴛ](https://t.me/RDXWEAPON)
+┣★ ʜᴇᴀʀᴛ ᴜs  [ʜᴇᴀʀᴛ ❤️](https://t.me/RDXWEAPON)
 ┣★ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/AbhiModszYT/StringGenBot)
-┣★ ɴᴇᴛᴡᴏʀᴋ [ᴀᴍʙᴏᴛ](https://t.me/AMBOTYT)
+┣★ ɴᴇᴛᴡᴏʀᴋ [ᴀᴍʙᴏᴛ](https://t.me/RDXWEAPON)
 ┗━━━━━━━━━━━━━━━━━┛
 💞 
-IF HAVE ANY QUESTION THEN CONTACT » TO » MY » [OWNER] @AM_YTBOTT
+IF HAVE ANY QUESTION THEN CONTACT » TO » MY » [OWNER] @RDXWEAPON
    """
